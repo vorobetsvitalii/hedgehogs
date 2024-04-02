@@ -33,7 +33,7 @@ class Program
 
     static void Main(string[] args)
     {
-        int[] population = { 0, 1, 7 };
+        int[] population = { 8, 1, 9 };
         int desiredColor = 0;
 
         int minMeetings = MinMeetings(population, desiredColor);
